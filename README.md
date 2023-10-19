@@ -8,8 +8,6 @@
 - [Codeby Games](https://codeby.games/users/d00mR34p3r)
 - [Root Me](https://www.root-me.org/d00m_r34p3r)
 
-### 👋🏻 Connect with Me
-- [Telegram](https://t.me/evtdanya)
 <!--
 **EvtDanya/EvtDanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
