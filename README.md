@@ -1,6 +1,6 @@
 # Hack the world
 ### 👨‍💻 Introducing Myself
-I'm a pentester  
+I'm a pentester, ctf player and beginner bug hunter
 
 ### ⚡ My profiles
 - [Try hack me](https://tryhackme.com/p/EvtDanya)
