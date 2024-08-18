@@ -12,6 +12,7 @@
 - [Root Me](https://www.root-me.org/d00m_r34p3r);
 - [CTF team](https://ctftime.org/team/186802).
 
+![Profile views](https://profile-counter.glitch.me/EvtDanya/count.svg)
 <!--
 **EvtDanya/EvtDanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
