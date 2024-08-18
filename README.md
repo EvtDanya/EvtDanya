@@ -12,7 +12,7 @@
 - [Root Me](https://www.root-me.org/d00m_r34p3r);
 - [CTF team](https://ctftime.org/team/186802).
 
-![Profile views](https://komarev.com/ghpvc/?username=EvtDanya&color=green)
+[![](https://visitcount.itsvg.in/api?id=EvtDanya&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <!--
 **EvtDanya/EvtDanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
