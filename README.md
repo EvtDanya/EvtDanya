@@ -10,7 +10,8 @@
 - [Hack The Box](https://app.hackthebox.com/users/1167901);
 - [Codeby Games](https://codeby.games/users/d00mR34p3r);
 - [Root Me](https://www.root-me.org/d00m_r34p3r);
-- [CTF team](https://ctftime.org/team/186802).
+- [CTF team](https://ctftime.org/team/186802);
+- [Standoff 365](https://standoff365.com/profile/d00m_r34p3r).
 
 ## 📫 How to reach me
 - [telegram](https://t.me/evtdanya);
