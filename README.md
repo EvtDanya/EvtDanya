@@ -14,8 +14,7 @@
 - [Standoff 365](https://standoff365.com/profile/d00m_r34p3r).
 
 ## 📫 How to reach me
-- [telegram](https://t.me/evtdanya);
-- [Email](mailto:EvtDanilF@yandex.ru).
+- [telegram](https://t.me/evtdanya).
   
 ##
 [![](https://visitcount.itsvg.in/api?id=EvtDanya&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
