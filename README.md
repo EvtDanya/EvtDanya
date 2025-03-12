@@ -1,8 +1,8 @@
 # Hack the world
 ## 👨‍💻 Introducing Myself
-- junior pentester;
+- appsec;
 - ctf player;
-- beginner bug hunter.
+- bug hunter.
 
 ## ⚡ My profiles
 - [Try hack me](https://tryhackme.com/p/EvtDanya);
