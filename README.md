@@ -1,6 +1,6 @@
 # Hack the world
 ## 👨‍💻 Introducing Myself
-- appsec;
+- appsec engineer;
 - ctf player;
 - bug hunter.
 
