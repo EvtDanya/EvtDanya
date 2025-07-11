@@ -8,7 +8,7 @@
 - [Try hack me](https://tryhackme.com/p/EvtDanya);
 - [picoCTF](https://play.picoctf.org/users/d3f3nd3r);
 - [Hack The Box](https://app.hackthebox.com/users/1167901);
-- [Codeby Games](https://codeby.games/users/d00mR34p3r);
+- [Codeby Games](https://hackerlab.pro/users/d00mR34p3r);
 - [Root Me](https://www.root-me.org/d00m_r34p3r);
 - [CTF team](https://ctftime.org/team/186802);
 - [Standoff 365](https://standoff365.com/profile/d00m_r34p3r).
