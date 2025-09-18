@@ -4,14 +4,16 @@
 - ctf player;
 - bug hunter.
 
-## ⚡ My profiles
+## ⚡ My main profiles
 - [Try hack me](https://tryhackme.com/p/EvtDanya);
 - [picoCTF](https://play.picoctf.org/users/d3f3nd3r);
 - [Hack The Box](https://app.hackthebox.com/users/1167901);
 - [Codeby Games](https://hackerlab.pro/users/d00mR34p3r);
 - [Root Me](https://www.root-me.org/d00m_r34p3r);
 - [CTF team](https://ctftime.org/team/186802);
-- [Standoff 365](https://standoff365.com/profile/d00m_r34p3r).
+- [Standoff 365](https://standoff365.com/profile/d00m_r34p3r) - my main bug bounty profile. I'm also hunting on many other platforms.
+
+and some other...
 
 ## 📫 How to reach me
 - [telegram](https://t.me/evtdanya).
