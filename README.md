@@ -15,8 +15,12 @@
 
 and some other...
   
-##
-[![](https://visitcount.itsvg.in/api?id=EvtDanya&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
+## My research
+
+[![BDU:2025-15735](https://img.shields.io/badge/BDU:2025--15735-8.1-red)](https://bdu.fstec.ru/vul/2025-15735) - Possible CVE🤔
+
+
+
 <!--
 **EvtDanya/EvtDanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
