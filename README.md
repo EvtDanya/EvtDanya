@@ -1,4 +1,6 @@
 # Hack the world
+[My personal blog with researches](https://evtdanya.github.io/)
+
 ## 👨‍💻 Introducing Myself
 - appsec engineer;
 - ctf player;
